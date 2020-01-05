@@ -1,0 +1,6 @@
+[submodule "archive/SlackBotServer_C/openssl"]
+	path = archive/SlackBotServer_C/openssl
+	url = https://github.com/openssl/openssl.git
+[submodule "archive/SlackBotServer_C/parson"]
+	path = archive/SlackBotServer_C/parson
+	url = https://github.com/kgabis/parson.git

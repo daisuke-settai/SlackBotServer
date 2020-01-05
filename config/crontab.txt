@@ -1,0 +1,3 @@
+00 04 01 * * /usr/bin/certbot-auto renew --force-renew && /home/ed/SlackBotServer/scripts/restart_server.sh
+*/5 * * * * /home/ed/SlackBotServer/scripts/crontab.sh
+05 04 * * * /home/ed/SlackBotServer/scripts/restart_server.sh
